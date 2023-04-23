@@ -1,1 +1,1 @@
-# excetion
+# exception
